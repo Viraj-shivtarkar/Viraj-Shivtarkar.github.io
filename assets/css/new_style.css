@@ -1,0 +1,35 @@
+
+body{
+    
+    background-color: #4157a3; 
+    font-family: Consolas,monaco,monospace;
+    width: auto;
+    height: 100%;
+    position: relative;
+    }
+
+.container{
+    position: relative;
+    top: 150px;
+    text-align: center;
+
+}
+.container img{
+    height: 100px;
+    width: auto;
+}
+.container h2{
+    color: #23272a;
+    font-family: Consolas,monaco,monospace;
+    font-size: 60px;
+}
+.container p{
+    color: #99aab5 ;
+    font-size: 20px;
+}
+
+.back img{
+    height: 35px;
+    position: relative;
+    
+}
