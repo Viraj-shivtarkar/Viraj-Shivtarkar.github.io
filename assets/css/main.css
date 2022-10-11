@@ -2261,8 +2261,12 @@ input, select, textarea {
 			padding: 1em 0 0 1em;
 			vertical-align: middle;
 		}
-		
 
+		ul.actions li input{
+			font-family: Consolas,monaco,monospace;
+		}
+			
+		
 		ul.actions.special {
 			-moz-justify-content: center;
 			-webkit-justify-content: center;
